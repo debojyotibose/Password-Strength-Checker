@@ -25,4 +25,4 @@ Add special characters (like !, @, #, etc.).
 
 Enter your password: Hello@123
 Strong password
-Created by a first-year AI & Cyber Security student at IIT Patna.[password_strength_checker.py](https://github.com/user-attachments/files/22933037/password_strength_checker.py)
+Created by a first-year AI & Cyber Security student at IIT Patna.
